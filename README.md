@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
    ```bash
    npm run server
    ```
-   The server should be running at `http://localhost:5009`.
+   The server should be running at `http://localhost:${PORT}`.
 
 ---
 
