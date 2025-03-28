@@ -130,5 +130,5 @@ Ensure you have the following installed on your system:
 - Ensure MongoDB is running before starting the server.
 - Update `.env` variables with your actual database connection string and secret key.
 
-For any issues, feel free to contact the development team!
+
 
