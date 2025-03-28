@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
    - Create a `.env` file in the root directory.
    - Add the following variables:
      ```env
-     PORT=port_number
+     PORT=5000
      MONGO_URI=your_mongodb_connection_string
      JWT_SECRET=your_secret_key
      ```
@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
    ```bash
    npm run server
    ```
-   The server should be running at `http://localhost:${PORT}`.
+   The server should be running at `http://localhost:5000`.
 
 ---
 
